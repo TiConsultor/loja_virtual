@@ -12,6 +12,4 @@
 **CONTROLE DE TAREFAS**
 [X] Página inicial
 [ ] Página de contato
-[ ] Técnicas de Machine Learning
-
-hhhhh
+[ ] Técnicas de Machine Learnin
